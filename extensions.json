@@ -2,7 +2,7 @@
   "secuses": true,
   "results": [
     {
-      "title": "Best of MaDALEX Collection",
+      "title": "Movies&Series",
       "results": [
         {
           "name": "OnlineMOD & Filmix",
@@ -10,7 +10,13 @@
           "link": "https://nb557.github.io/plugins/online_mod.js",
           "descr": "Фильмы и сериалы в онлайн, больше 10 балансеров для просмотра.",
           "available_lampa": 1
-        },
+        }
+      ],
+      "hpu": "best"
+    },
+    {
+      "title": "Misc",
+      "results": [
         {
           "name": "Tweaks&Tricks",
           "author": "@AndreyURL54",
@@ -22,11 +28,25 @@
           "name": "TurnOFF WebSocket",
           "author": "@rootu",
           "link": "http://plugin.rootu.top/wsoff.js",
-          "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах.",
+          "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
+          "available_lampa": 1
+        },
+        {
+          "name": "CUB Premium OFF",
+          "author": "@unknown",
+          "link": "https://x-lampa.github.io/store/cub_off.js",
+          "descr": "Плагин убирает элементы, предлагающие оформить CUB Premium",
+          "available_lampa": 1
+        },
+        {
+          "name": "CUB Golden Theme",
+          "author": "@unknown",
+          "link": "https://x-lampa.github.io/store/gold.js",
+          "descr": "Плагин включает золотую тему",
           "available_lampa": 1
         }
       ],
-      "hpu": "best"
+      "hpu": "other"
     }
   ]
 }
