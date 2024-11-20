@@ -151,7 +151,6 @@
       this.paused = false;
       this.display = false;
       this.ended = false;
-      this.listener = Lampa.Subscribe();
       this.html = $(`
             <div class="cardify-trailer">
                 <div class="cardify-trailer__youtube">
