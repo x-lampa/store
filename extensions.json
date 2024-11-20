@@ -38,6 +38,13 @@
           "descr": "Дополнение некоторых востребованных функций и дизайна, которых вам не хватало. (mod. Без проверки на MSX)",
           "available_lampa": 1
         },
+		{
+          "name": "Cardify Unlocked",
+          "author": "@AlexanderWayne",
+          "link": "https://x-lampa.github.io/store/cardify_unlocked.js",
+          "descr": "Расширение преобразует привычный вид карточек, предлагая обновленный интерфейс — более яркий, красочный и привлекательный.",
+          "available_lampa": 1
+        },
         {
           "name": "TurnOFF WebSocket",
           "author": "@rootu",
