@@ -59,6 +59,13 @@
           "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
           "available_lampa": 1
         }
+	{
+          "name": "Buttons",
+          "author": "@awayne",
+          "link": "https://x-lampa.github.io/store/button_obf.js",
+          "descr": "Enabling Buttons",
+          "available_lampa": 1
+        }
       ],
       "hpu": "other"
     }
