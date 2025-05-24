@@ -65,6 +65,13 @@
                     "link": "https://x-lampa.github.io/store/button_obf.js",
                     "descr": "Enabling Buttons",
                     "available_lampa": 1
+                },
+                {
+                    "name": "OrangeColor",
+                    "author": "@awayne",
+                    "link": "https://x-lampa.github.io/store/orange_color.js",
+                    "descr": "Enabling some orange shit",
+                    "available_lampa": 1
                 }
             ],
             "hpu": "other"
