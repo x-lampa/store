@@ -1,3 +1,4 @@
+//Lampa.
 (function () {
   "use strict";
 
@@ -36,7 +37,6 @@
         vA2.forEach(function (p4) {
           v9.append(p4);
         });
-        Lampa.;
       }, 100);
     }
   });
