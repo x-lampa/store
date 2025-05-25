@@ -1,4 +1,4 @@
-//Lampa.
+//Lampa. functionality fatality // 
 (function () {
   "use strict";
 
