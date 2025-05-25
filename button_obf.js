@@ -36,7 +36,7 @@
         vA2.forEach(function (p4) {
           v9.append(p4);
         });
-        Lampa.Controller.toggle("full_start");
+        Lampa;
       }, 100);
     }
   });
