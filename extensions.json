@@ -72,6 +72,13 @@
                     "link": "https://x-lampa.github.io/store/orange_color.js",
                     "descr": "Enabling some orange shit",
                     "available_lampa": 1
+                },
+                {
+                    "name": "Themes",
+                    "author": "@awayne",
+                    "link": "https://x-lampa.github.io/store/themes.js",
+                    "descr": "Some themes",
+                    "available_lampa": 1
                 }
             ],
             "hpu": "other"
